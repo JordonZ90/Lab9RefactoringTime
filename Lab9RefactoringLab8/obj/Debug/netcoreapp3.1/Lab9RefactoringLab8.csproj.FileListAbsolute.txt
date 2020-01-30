@@ -1,0 +1,11 @@
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.exe
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.deps.json
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.runtimeconfig.json
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.runtimeconfig.dev.json
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.dll
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\bin\Debug\netcoreapp3.1\Lab9RefactoringLab8.pdb
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.csprojAssemblyReference.cache
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.AssemblyInfoInputs.cache
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.AssemblyInfo.cs
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.dll
+C:\Users\zigar\Desktop\HomePrac\Lab9RefactoringLab8\Lab9RefactoringLab8\obj\Debug\netcoreapp3.1\Lab9RefactoringLab8.pdb
